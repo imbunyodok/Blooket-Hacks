@@ -5972,7 +5972,7 @@
 
         let iframe = document.querySelector("iframe");
 
-        iframe.contentWindow.alert("It Seems You Want Hacks?.\n\n Thanks For Use")
+        iframe.contentWindow.alert("It Seems You Want Hacks?.\n\n Thanks For Useing The Moonlight Hacks")
 
     }
 
