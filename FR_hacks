@@ -5972,7 +5972,7 @@
 
         let iframe = document.querySelector("iframe");
 
-        iframe.contentWindow.alert("It seems the GitHub is either blocked or down.\n\nIf it's NOT blocked, I am so sorry sir do i need to lick your toes?")
+        iframe.contentWindow.alert("It Seems You Want Hacks?.\n\n Thanks For Use")
 
     }
 
